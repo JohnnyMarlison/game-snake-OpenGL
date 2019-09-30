@@ -1,3 +1,4 @@
+// g++ linuxSnake.cpp -o snakeGL -lglut -lGLU -lGL
 #include<GL/glut.h>
 #include<ctime>
 
